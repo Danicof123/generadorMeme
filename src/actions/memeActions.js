@@ -1,0 +1,5 @@
+export const TYPES = {
+  ADD_HEADER: "ADD_HEADER",
+  ADD_FOOTER: "ADD_FOOTER",
+  SELECT_MEME: "SELECT_MEME"
+}

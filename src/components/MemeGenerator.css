@@ -1,0 +1,26 @@
+.meme {
+  position: relative;
+  display: block;
+  width: max-content;
+  margin-top: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.meme_text {
+  position: absolute;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 900;
+  color: #fff;
+  word-break: break-word;
+  padding: 1rem;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+.meme_footer {
+  bottom: 0;
+}
